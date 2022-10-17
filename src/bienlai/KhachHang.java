@@ -1,7 +1,7 @@
 package bienlai;
 
 public class KhachHang {
-	public int code;
+    public int code;
     public String fullName;
     public String date;
     public int quantity;
