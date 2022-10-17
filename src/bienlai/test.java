@@ -1,7 +1,7 @@
 package bienlai;
 
 public class test {
-	public static void main3(String[] args){
+	public static void main(String[] args){
         KhachHangVN a = new KhachHangVN(1,"Nguyen Trung Hieu","12-10-2022",219,"ca nhan");
         KhachHangNN b = new KhachHangNN(2,"Lionel Messi","22-10-2022",300,"US");
         System.out.println(a.thanhTien());
